@@ -2,6 +2,7 @@
 
 TODO APP WITH CRA
 
-### `npm install`
-### `npm run start`
-### `npm run build`
+Commands:
+`npm install`
+`npm run start`
+`npm run build`
