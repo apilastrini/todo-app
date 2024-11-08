@@ -14,7 +14,7 @@ export default function TaskListPage() {
 
   const handleCancel = () => setShowTaskCreation(false);
 
-  const handleSubmit = (x: TaskItem) => console.log('d', x);
+  const handleSubmit = (task: TaskItem) => console.log('task data >>>', task);
 
   const addNewTask = () => {
     setShowTaskCreation(true);
